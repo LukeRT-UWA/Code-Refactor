@@ -1,5 +1,6 @@
 # HomeworkOne
-Homework Assignment One
-File structure preserved for ease of use.
+Homework Assignment One.
 
-Clean up before submission.
+Todos: CSS comments, Semantic tags double check, div purge.
+
+
