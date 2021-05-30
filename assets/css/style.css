@@ -1,3 +1,5 @@
+/*GENERAL STYLES*/
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +9,8 @@
 body {
     background-color: #d9dcd6;
 }
+
+/*HEADER STYLES*/
 
 header {
     padding: 20px;
@@ -41,6 +45,8 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/*TEXT STYLES*/
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -50,7 +56,9 @@ p {
     font-size: 16px;
 }
 
-.background {
+/*HERO IMAGE*/
+
+.hero-image {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -58,6 +66,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/*FlOATING TEXT*/
 
 .float-left {
     float: left;
@@ -68,6 +78,8 @@ p {
     float: right;
     margin-left: 25px;
 }
+
+/*MAIN SECTION*/
 
 .content {
     width: 75%;
@@ -104,6 +116,8 @@ p {
     max-width: 150px;
 }
 
+/*SIDE SECTION*/
+
 .services {
     margin-bottom: 20px;
     padding: 50px;
@@ -121,6 +135,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/*FOOTER*/
 
 footer {
     padding: 30px;
