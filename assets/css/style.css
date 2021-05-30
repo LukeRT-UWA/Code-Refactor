@@ -79,13 +79,7 @@ p {
     margin-left: 25px;
 }
 
-/*MAIN SECTION*/
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
+/*BENEFITS SECTION*/
 
 .benefits {
     margin-right: 20px;
@@ -116,7 +110,13 @@ p {
     max-width: 150px;
 }
 
-/*SIDE SECTION*/
+/*SERVICES SECTION*/
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
 
 .services {
     margin-bottom: 20px;
@@ -136,7 +136,7 @@ p {
     font-size: 36px;
 }
 
-/*FOOTER*/
+/*FOOTER STYLES*/
 
 footer {
     padding: 30px;

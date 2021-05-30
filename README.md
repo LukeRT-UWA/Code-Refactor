@@ -1,7 +1,6 @@
 # HomeworkOne
 Homework Assignment One.
 
-Todos: CSS comments, Semantic tags double check, div purge.
-
 https://lukert-uwa.github.io/HomeworkOne/
 
+Code refactored. CSS commented. Website created. Need to review homework readme to see if I missed anything.
